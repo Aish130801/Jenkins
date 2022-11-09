@@ -8,7 +8,7 @@ pipeline {
 
                 make
                 ./add
-                clean
+                make clean
 
                 '''
 
